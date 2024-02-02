@@ -1,5 +1,5 @@
 Hi there, I’m Antonio Mancini
-I’m a front end software engineer who loves to create functional web and mobile applications.
+I’m a front end software developer who loves to create functional web and mobile applications.
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" width="42" alt="typescript logo"  />
