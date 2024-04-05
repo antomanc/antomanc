@@ -1,5 +1,11 @@
-Hi there, I’m Antonio Mancini
-I’m a front end software developer who loves to create functional web and mobile applications.
+# Antonio Mancini
+
+## Software Developer
+
+### Experience primarily in web and mobile development, but i also have experience in backend development and low-level programming
+
+### I currently use Arch Linux as my daily driver
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" width="42" alt="typescript logo"  />
