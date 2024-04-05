@@ -2,7 +2,7 @@
 
 ## Software Developer
 
-### Experience primarily in web and mobile development, but i also have experience in backend development and low-level programming
+### Experienced primarily in web and mobile development, but also worken on backend development and low-level programming
 
 ### I currently use Arch Linux as my daily driver
 
