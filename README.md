@@ -61,7 +61,7 @@ I currently use Arch Linux as my daily driver
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-plain.svg" height="30" width="42" alt="ubuntu logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" height="30" width="42" alt="debian logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original.svg" height="30" width="42" alt="nixos logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arch/arch-original.svg" height="30" width="42" alt="arch logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" height="30" width="42" alt="arch logo"  />          
 </div>
           
 
