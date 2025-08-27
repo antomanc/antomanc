@@ -2,9 +2,9 @@
 
 # 💻 Software Developer
 
-I spend most of my time building things for the web and mobile — but I also enjoy backend programming, DevOps, and some funny low-level coding
+I'm an Italian software developer who loves coding for the web, mobile, backend, with some experience with DevOps and AI. I daily run Arch Linux with Hyprland as my window manager because it's clearly the best window manager out there.
 
-I run a self-hosted homelab where I host my personal site & blog:  
+I run a self-hosted homelab and I run a personal blog:  
 🌐 [dev.antomanc.com](https://dev.antomanc.com)  
 There, I share what I'm working on, document my tech experiments, and write guides to help others.
 
