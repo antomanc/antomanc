@@ -2,7 +2,7 @@
 
 # 💻 Software Developer
 
-I'm an Italian software developer who loves coding for the web, mobile, backend, with some experience with DevOps and AI. I daily run Arch Linux with Hyprland as my window manager because it's clearly the best window manager out there.
+I'm an Italian software developer who loves coding for the web, mobile, backend, with some experience with DevOps and AI.
 
 I run a self-hosted homelab and I run a personal blog:  
 🌐 [dev.antomanc.com](https://dev.antomanc.com)  
