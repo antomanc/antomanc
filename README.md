@@ -2,7 +2,7 @@
 
 # Antonio Mancini
 
-### I build things because I want them to exist.
+### Always be curious.
 
 Software developer from Italy, interested in the space where  
 **software, hardware, AI and real-world problems collide.**
@@ -16,12 +16,12 @@ Software developer from Italy, interested in the space where
 ```text
 $ whoami
 
-developer / tinkerer / chronic problem solver
+developer / tinkerer / problem solver
 
-I like software that escapes the screen:
-a BLE proxy built because my trainer didn't talk to my Garmin,
-AI experiments born from everyday annoyances,
-and tools I wanted to use before they existed.
+I like turning oddly specific problems into working software:
+making devices talk to each other,
+reverse-engineering things that weren't meant to be tinkered with,
+and experimenting with new ways humans can play with AI.
 ```
 
 ## Selected builds
@@ -30,36 +30,32 @@ and tools I wanted to use before they existed.
 <tr>
 <td width="50%" valign="top">
 
-### 🌙 [Moonshine](https://github.com/antomanc/moonshine)
-A headless game-streaming server for Linux.
-
-Streams games through a built-in Wayland compositor, with hardware video encoding, HDR, input and audio — no physical monitor required.
-
-</td>
-<td width="50%" valign="top">
-
 ### 🚴 [TrainerBridge](https://github.com/antomanc/TrainerBridge)
+
 An ESP32 BLE bridge for indoor cycling.
 
 Makes smart trainers, training apps and Garmin devices understand each other — including virtual speed and distance calculated from power.
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
-### 📷 [Calories from Image](https://github.com/antomanc/calories-from-image-gemini)
-A small mobile experiment in making AI useful.
+### ⚖️ [Simple Prozis Bit Scale](https://github.com/antomanc/simple-prozis-bit-scale)
 
-Point a camera at food and get an approximate nutritional breakdown with Gemini.
+A better interface for a BLE kitchen scale.
+
+I reverse-engineered its Bluetooth protocol and built a mobile app around it with live weight, tare, auto-save and session tracking.
 
 </td>
-<td width="50%" valign="top">
+</tr>
 
-### 🧪 The next thing
-Usually somewhere between a problem I have, a technology I want to understand, and the thought:
+<tr>
+<td colspan="2" valign="top">
 
-> “I could probably build that.”
+### 🎭 Niche Game
+
+**private · in development**
+
+An AI-powered multiplayer party game for 2+ players with multiple game modes.
 
 </td>
 </tr>
@@ -85,6 +81,6 @@ I also run my own homelab and write about experiments, projects and things I've 
 
 building · breaking · learning · rebuilding
 
-<sub>Linux daily driver · self-hosting enthusiast · always curious</sub>
+<sub>Linux daily driver · self-hosting enthusiast</sub>
 
 </div>
