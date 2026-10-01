@@ -4,8 +4,7 @@
 
 ### Always be curious.
 
-Software developer from Italy, interested in the space where  
-**software, hardware, AI and real-world problems collide.**
+Software developer from Italy.
 
 [dev.antomanc.com](https://dev.antomanc.com)
 
@@ -13,15 +12,13 @@ Software developer from Italy, interested in the space where
 
 <br>
 
-```text
-$ whoami
+```fish
+❯ whoami
 
 developer / tinkerer / problem solver
 
-I like turning oddly specific problems into working software:
-making devices talk to each other,
-reverse-engineering things that weren't meant to be tinkered with,
-and experimenting with new ways humans can play with AI.
+I work across web, mobile, backend, embedded systems and AI.
+Linux is my daily environment, and I run a self-hosted homelab.
 ```
 
 ## Selected builds
@@ -63,24 +60,16 @@ An AI-powered multiplayer party game for 2+ players with multiple game modes.
 
 <br>
 
-## How I like to build
+## About
 
-**Useful over impressive.**  
-**Simple until complexity earns its place.**  
-**Curiosity over staying in one lane.**
+I work across web, mobile, backend and embedded software, with a growing focus on AI-powered applications and tools.
 
-I move between web, mobile, backend, Linux, embedded systems and AI depending on what the problem needs.
-
-I also run my own homelab and write about experiments, projects and things I've learned at **[dev.antomanc.com](https://dev.antomanc.com)**.
+I use Linux as my daily development environment, maintain a self-hosted homelab, and write about projects and technical experiments at **[dev.antomanc.com](https://dev.antomanc.com)**.
 
 <br>
 
 <div align="center">
 
-### currently
-
-building · breaking · learning · rebuilding
-
-<sub>Linux daily driver · self-hosting enthusiast</sub>
+<sub>building · breaking · learning · rebuilding</sub>
 
 </div>
