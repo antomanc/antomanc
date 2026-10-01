@@ -14,14 +14,10 @@ Software developer from Italy.
 
 ```fish
 ❯ whoami
-developer / tinkerer / problem solver
+Antonio Mancini — software developer
 
-❯ printf '%s\n' web mobile backend embedded AI
-web
-mobile
-backend
-embedded
-AI
+❯ cat interests
+web · mobile · embedded · AI · self-hosting
 
 ❯ homelab status
 self-hosted and running
@@ -61,15 +57,3 @@ An AI-powered multiplayer party game for 2+ players with multiple game modes.
 </td>
 </tr>
 </table>
-
-<br>
-
-I write about projects and technical experiments at **[dev.antomanc.com](https://dev.antomanc.com)**.
-
-<br>
-
-<div align="center">
-
-<sub>building · breaking · learning · rebuilding</sub>
-
-</div>
