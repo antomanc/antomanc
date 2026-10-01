@@ -56,8 +56,6 @@ I reverse-engineered its Bluetooth protocol and built a mobile app around it wit
 
 ### 🎭 [Niche Game](https://niche-game.antomanc.com)
 
-**private · in development**
-
 An AI-powered multiplayer party game for 2+ players with multiple game modes.
 
 </td>
