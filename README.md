@@ -1,59 +1,36 @@
-<div align="center">
-
-# Antonio Mancini
-
-### Always be curious.
-
-Software developer from Italy.
-
-[dev.antomanc.com](https://dev.antomanc.com)
-
-</div>
-
-<br>
-
 ```fish
 ❯ whoami
-Antonio Mancini — software developer
+software developer
 
-❯ cat interests
-web · mobile · embedded · AI · self-hosting
+❯ ls ~/interests
+web/  mobile/  embedded/  AI/  self-hosting/
 
 ❯ homelab status
 self-hosted and running
 ```
 
-## Selected builds
+<p align="right"><i>Always be curious.</i></p>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## Selected work
 
-### 🚴 [TrainerBridge](https://github.com/antomanc/TrainerBridge)
+### `01` [TrainerBridge](https://github.com/antomanc/TrainerBridge)
 
-An ESP32 BLE bridge for indoor cycling.
+<kbd>ESP32</kbd> <kbd>BLE</kbd> <kbd>CYCLING</kbd>
 
-Makes smart trainers, training apps and Garmin devices understand each other — including virtual speed and distance calculated from power.
+ESP32 BLE bridge connecting smart trainers, training apps and Garmin devices — including virtual speed and distance derived from power.
 
-</td>
-<td width="50%" valign="top">
+<br>
 
-### ⚖️ [Simple Prozis Bit Scale](https://github.com/antomanc/simple-prozis-bit-scale)
+### `02` [Simple Prozis Bit Scale](https://github.com/antomanc/simple-prozis-bit-scale)
 
-A better interface for a BLE kitchen scale.
+<kbd>REACT NATIVE</kbd> <kbd>BLE</kbd> <kbd>REVERSE ENGINEERING</kbd>
 
-I reverse-engineered its Bluetooth protocol and built a mobile app around it with live weight, tare, auto-save and session tracking.
+Reverse-engineered a BLE kitchen scale protocol and built a mobile client with live weight, tare, auto-save and session tracking.
 
-</td>
-</tr>
+<br>
 
-<tr>
-<td colspan="2" valign="top">
+### `03` [Niche Game ↗](https://niche-game.antomanc.com)
 
-### 🎭 [Niche Game](https://niche-game.antomanc.com)
+<kbd>AI</kbd> <kbd>MULTIPLAYER</kbd> <kbd>PARTY GAME</kbd>
 
-An AI-powered multiplayer party game for 2+ players with multiple game modes.
-
-</td>
-</tr>
-</table>
+AI-powered multiplayer party game for 2+ players with multiple game modes.
