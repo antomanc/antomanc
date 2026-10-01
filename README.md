@@ -16,9 +16,6 @@ Software developer from Italy.
 ❯ whoami
 developer / tinkerer / problem solver
 
-❯ echo $SHELL
-/usr/bin/fish
-
 ❯ printf '%s\n' web mobile backend embedded AI
 web
 mobile
