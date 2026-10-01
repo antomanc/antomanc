@@ -14,11 +14,20 @@ Software developer from Italy.
 
 ```fish
 ❯ whoami
-
 developer / tinkerer / problem solver
 
-I work across web, mobile, backend, embedded systems and AI.
-Linux is my daily environment, and I run a self-hosted homelab.
+❯ echo $SHELL
+/usr/bin/fish
+
+❯ printf '%s\n' web mobile backend embedded AI
+web
+mobile
+backend
+embedded
+AI
+
+❯ homelab status
+self-hosted and running
 ```
 
 ## Selected builds
@@ -48,7 +57,7 @@ I reverse-engineered its Bluetooth protocol and built a mobile app around it wit
 <tr>
 <td colspan="2" valign="top">
 
-### 🎭 Niche Game
+### 🎭 [Niche Game](https://niche-game.antomanc.com)
 
 **private · in development**
 
@@ -60,11 +69,7 @@ An AI-powered multiplayer party game for 2+ players with multiple game modes.
 
 <br>
 
-## About
-
-I work across web, mobile, backend and embedded software, with a growing focus on AI-powered applications and tools.
-
-I use Linux as my daily development environment, maintain a self-hosted homelab, and write about projects and technical experiments at **[dev.antomanc.com](https://dev.antomanc.com)**.
+I write about projects and technical experiments at **[dev.antomanc.com](https://dev.antomanc.com)**.
 
 <br>
 
