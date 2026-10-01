@@ -29,7 +29,7 @@ Reverse-engineered a BLE kitchen scale protocol and built a mobile client with l
 
 ---
 
-### [Niche Game ↗](https://niche-game.antomanc.com)
+### [Niche Game ↗](https://nichegame.antomanc.com)
 
 AI-powered multiplayer party game for 2+ players with multiple game modes.
 
