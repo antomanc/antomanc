@@ -4,10 +4,7 @@ Full-stack software engineer working across web, mobile and applied AI.
 I started programming at 12, and I still like building things that make me
 learn a new part of the stack.
 
-At CLEMPS, I develop applications from technical design through deployment.
-My work includes React, TypeScript, Flutter and Python/FastAPI, as well as
-CI/CD and containerized environments. I've also built AI workflows for a
-patient intake application used in production.
+I build web and mobile applications, developer tools and applied AI products. I work across technical design, implementation and deployment, using React, TypeScript, Flutter and Python/FastAPI, along with CI/CD and containerized environments.
 
 ## Selected work
 
