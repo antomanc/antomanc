@@ -1,36 +1,25 @@
-```fish
-❯ whoami
-antomanc
+# Antonio Mancini
 
-❯ cat interests
-web · mobile · embedded · AI · self-hosting
+Full-stack software engineer working across web, mobile and applied AI.
+I started programming at 12, and I still like building things that make me
+learn a new part of the stack.
 
-❯ homelab status
-self-hosted and running
-```
-
-<p align="center"><i>Always be curious.</i></p>
+At CLEMPS, I develop applications from technical design through deployment.
+My work includes React, TypeScript, Flutter and Python/FastAPI, as well as
+CI/CD and containerized environments. I've also built AI workflows for a
+patient intake application used in production.
 
 ## Selected work
 
-### [TrainerBridge](https://github.com/antomanc/TrainerBridge)
+- **[Niche Game](https://nichegame.antomanc.com)** — A realtime multiplayer
+  game with server-authoritative state. An LLM validates answers; application
+  rules determine the score.
+- **[aginit](https://github.com/antomanc/aginit)** — An npm CLI that sets up
+  projects for coding agents with instructions, skills and test tooling.
+- **[TrainerBridge](https://github.com/antomanc/TrainerBridge)** — ESP32
+  firmware that lets a training app and a Garmin use the same smart trainer.
+- **[Simple Calorie Tracker](https://github.com/antomanc/simple-calorie-tracker)**
+  — An open-source React Native app for tracking meals and macros.
 
-ESP32 BLE bridge for indoor cycling, connecting smart trainers, training apps and Garmin devices — with virtual speed and distance derived from power.
-
-`ESP32 · BLE · CYCLING`
-
----
-
-### [Simple Prozis Bit Scale](https://github.com/antomanc/simple-prozis-bit-scale)
-
-Reverse-engineered a BLE kitchen scale protocol and built a mobile client with live weight, tare, auto-save and session tracking.
-
-`REACT NATIVE · BLE · REVERSE ENGINEERING`
-
----
-
-### [Niche Game ↗](https://nichegame.antomanc.com)
-
-AI-powered multiplayer party game for 2+ players with multiple game modes.
-
-`AI · MULTIPLAYER · PARTY GAME`
+[Portfolio](https://www.antomanc.com) ·
+[LinkedIn](https://www.linkedin.com/in/antomanc/)
