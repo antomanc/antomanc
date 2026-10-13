@@ -1,10 +1,9 @@
 # Antonio Mancini
 
-Full-stack software engineer working across web, mobile and applied AI.
-I started programming at 12, and I still like building things that make me
-learn a new part of the stack.
+Full-stack software engineer working across web, mobile and AI.
+I started programming at 12. I liked taking things apart and figuring out how they worked, then building my own. I still do.
 
-I build web and mobile applications, developer tools and applied AI products. I work across technical design, implementation and deployment, using React, TypeScript, Flutter and Python/FastAPI, along with CI/CD and containerized environments.
+I build web and mobile applications, developer tools and applied AI products. I work across technical design, implementation and deployment, along with CI/CD and containerized environments.
 
 ## Selected work
 
