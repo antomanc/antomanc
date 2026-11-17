@@ -1,21 +1,26 @@
 # Antonio Mancini
 
-Full-stack software engineer working across web, mobile and AI.
-I started programming at 12. I liked taking things apart and figuring out how they worked, then building my own. I still do.
+Full-stack software engineer in Rome, working across web, mobile and applied AI.
 
-I build web and mobile applications, developer tools and applied AI products. I work across technical design, implementation and deployment, along with CI/CD and containerized environments.
+I started programming at 12. I liked taking things apart and figuring out how they worked, then building my own. I still do. Today that means web and mobile apps, tools that help AI coding agents do good work, and the occasional piece of hardware.
 
-## Selected work
+### Tools for AI coding agents
 
-- **[Niche Game](https://nichegame.antomanc.com)** — A realtime multiplayer
-  game with server-authoritative state. An LLM validates answers; application
-  rules determine the score.
-- **[aginit](https://github.com/antomanc/aginit)** — An npm CLI that sets up
-  projects for coding agents with instructions, skills and test tooling.
-- **[TrainerBridge](https://github.com/antomanc/TrainerBridge)** — ESP32
-  firmware that lets a training app and a Garmin use the same smart trainer.
-- **[Simple Calorie Tracker](https://github.com/antomanc/simple-calorie-tracker)**
-  — An open-source React Native app for tracking meals and macros.
+- **[wellkept](https://github.com/antomanc/skills)**: an agent skill that turns the mistakes agents keep making in a repo into checks that fail the build.
+- **[aginit](https://github.com/antomanc/aginit)**: an npm CLI that sets up projects for coding agents with instructions, skills and test tooling.
+- **[agbox](https://github.com/antomanc/agbox)**: one command that turns a fresh Debian or Ubuntu machine into a home for coding agents.
 
-[Portfolio](https://www.antomanc.com) ·
-[LinkedIn](https://www.linkedin.com/in/antomanc/)
+### Apps
+
+- **[vegdex](https://vegdex.antomanc.com)**: vegan recipe search by ingredient, meal and cooking time, with shopping lists and offline use. Svelte, TypeScript.
+- **[ameki](https://github.com/antomanc/ameki)**: an Android weather app with Material You widgets. Kotlin, Jetpack Compose.
+- **[Niche Game](https://nichegame.antomanc.com)**: a realtime multiplayer game with server-authoritative state. An LLM validates answers; application rules decide the score.
+- **[Simple Calorie Tracker](https://github.com/antomanc/simple-calorie-tracker)**: an open-source React Native app for tracking meals and macros.
+
+### Hardware and hacks
+
+- **[TrainerBridge](https://github.com/antomanc/TrainerBridge)**: ESP32 firmware that lets Zwift and a Garmin use the same smart trainer at once.
+- **[scalebridge](https://github.com/antomanc/scalebridge)**: step on a Bluetooth bathroom scale and the weight shows up in Garmin Connect.
+- **[remote-dictation](https://github.com/antomanc/remote-dictation)**: offline push-to-talk dictation for Fire TV, from the remote's voice button.
+
+[Portfolio](https://www.antomanc.com) · [LinkedIn](https://www.linkedin.com/in/antomanc/) · [X](https://x.com/antomanc25)
