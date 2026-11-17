@@ -1,3 +1,5 @@
+<a href="https://github.com/antomanc/terrarium"><img src="terrarium/banner-night.png" width="100%" alt="My GitHub year as a floating voxel island at night, regrown every day by terrarium"></a>
+
 # Antonio Mancini
 
 Full-stack software engineer in Rome, working across web, mobile and applied AI.
@@ -22,5 +24,6 @@ I started programming at 12. I liked taking things apart and figuring out how th
 - **[TrainerBridge](https://github.com/antomanc/TrainerBridge)**: ESP32 firmware that lets Zwift and a Garmin use the same smart trainer at once.
 - **[scalebridge](https://github.com/antomanc/scalebridge)**: step on a Bluetooth bathroom scale and the weight shows up in Garmin Connect.
 - **[remote-dictation](https://github.com/antomanc/remote-dictation)**: offline push-to-talk dictation for Fire TV, from the remote's voice button.
+- **[terrarium](https://github.com/antomanc/terrarium)**: the island at the top. A GitHub Action regrows it every night from my activity and ray traces it in Bend, with laws the compiler proves.
 
 [Portfolio](https://www.antomanc.com) · [LinkedIn](https://www.linkedin.com/in/antomanc/) · [X](https://x.com/antomanc25)
