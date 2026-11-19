@@ -18,7 +18,6 @@ I started programming at 12. I liked looking inside things and figuring out how 
 - **[ameki](https://github.com/antomanc/ameki)**: an Android weather app with Material You widgets, powered by Open-Meteo. Kotlin, Jetpack Compose.
 - **[tameki](https://github.com/antomanc/tameki)**: a calm Android notebook for expenses and subscriptions. Everything stays on the phone: no account, no server. Kotlin, Jetpack Compose.
 - **[Niche Game](https://nichegame.antomanc.com)**: a realtime multiplayer game with server-authoritative state. An LLM validates answers; application rules decide the score.
-- **[Simple Calorie Tracker](https://github.com/antomanc/simple-calorie-tracker)**: an open-source React Native app for tracking meals and macros.
 
 ### Hardware and hacks
 
