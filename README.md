@@ -2,9 +2,9 @@
 
 # Antonio Mancini
 
-Full-stack software engineer in Rome, working across web, mobile and applied AI.
+Full-stack software engineer in Rome, working across web, mobile and AI.
 
-I started programming at 12. I liked taking things apart and figuring out how they worked, then building my own. I still do. Today that means web and mobile apps, tools that help AI coding agents do good work, and the occasional piece of hardware.
+I started programming at 12. I liked looking inside things and figuring out how they worked, and then building my own. I still do everyday. Today that means web and mobile apps, tinkering with AI agents, and occasionally some piece of hardware.
 
 ### Tools for AI coding agents
 
