@@ -6,7 +6,7 @@ I started programming at 12. I liked looking inside things and figuring out how 
 
 ### Tools for AI coding agents
 
-- **[wellkept](https://github.com/antomanc/skills)**: an agent skill that turns the mistakes agents keep making in a repo into checks that fail the build. The same repo ships `bootstrap.sh`, which installs my whole shared engineering set of skills globally, once per user instead of once per project.
+- **[wellkept](https://github.com/antomanc/skills)**: an agent skill that turns the mistakes agents keep making in a repo into checks that fail the build. The same repo ships `bootstrap.sh`, which installs my whole shared engineering set of skills globally.
 - **[aginit](https://github.com/antomanc/aginit)** *(archived)*: an npm CLI that set up new or existing web, mobile and CLI projects for agents: `AGENTS.md` task routing, skills, design, e2e and UI verification. Superseded by user-level skills — the scaffolding ideas may return as a global `bootstrap-project` skill.
 - **[agbox](https://github.com/antomanc/agbox)** *(archived)*: one command that turns a fresh Debian or Ubuntu machine into a home for coding agents. I now run a personal, opinionated fork of it on my own machines.
 
