@@ -1,27 +1,22 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="terrarium/banner-night.png">
+  <img src="terrarium/banner-day.png" alt="A voxel island grown from my GitHub activity, regenerated every night by terrarium" width="100%">
+</picture>
+
 # Antonio Mancini
 
-Full-stack software engineer in Rome, working across web, mobile and AI.
+Full stack software engineer in Rome. I work on web and mobile apps and on AI applications, and I like
+building tools that make agent-written code easier to verify.
 
-I started programming at 12. I liked looking inside things and figuring out how they worked, and then building my own. I still do everyday. Today that means web and mobile apps, tinkering with AI agents, and occasionally some piece of hardware.
+## Projects
 
-### Tools for AI coding agents
-
-- **[wellkept](https://github.com/antomanc/skills)**: an agent skill that turns the mistakes agents keep making in a repo into checks that fail the build. The same repo ships `bootstrap.sh`, which installs my whole shared engineering set of skills globally.
-- **[aginit](https://github.com/antomanc/aginit)** *(archived)*: an npm CLI that set up new or existing web, mobile and CLI projects for agents: `AGENTS.md` task routing, skills, design, e2e and UI verification. Superseded by user-level skills — the scaffolding ideas may return as a global `bootstrap-project` skill.
-- **[agbox](https://github.com/antomanc/agbox)** *(archived)*: one command that turns a fresh Debian or Ubuntu machine into a home for coding agents. I now run a personal, opinionated fork of it on my own machines.
-
-### Apps
-
+- **[Tameki](https://github.com/antomanc/tameki)**: Android app for expenses and subscriptions that works offline, with no account. Shows where you can save. Kotlin, Jetpack Compose.
+- **[wellkept](https://github.com/antomanc/skills)**: an agent skill that turns the mistakes AI agents keep making in a repo into checks that fail the build. Works with Claude Code, Codex and Cursor.
 - **[vegdex](https://vegdex.antomanc.com)**: vegan recipe search by ingredient, meal and cooking time, with shopping lists and offline use. Svelte, TypeScript.
-- **[ameki](https://github.com/antomanc/ameki)**: an Android weather app with Material You widgets, powered by Open-Meteo. Kotlin, Jetpack Compose.
-- **[tameki](https://github.com/antomanc/tameki)**: a calm Android notebook for expenses and subscriptions. Everything stays on the phone: no account, no server. Kotlin, Jetpack Compose.
-- **[Niche Game](https://nichegame.antomanc.com)**: a realtime multiplayer game with server-authoritative state. An LLM validates answers; application rules decide the score.
+- **[Niche Game](https://nichegame.antomanc.com)**: realtime multiplayer game with server-authoritative state. An LLM validates answers; application rules decide the score. Next.js, TypeScript.
 
-### Hardware and hacks
-
-- **[TrainerBridge](https://github.com/antomanc/TrainerBridge)**: ESP32 firmware that lets Zwift and a Garmin use the same smart trainer at once.
-- **[scalebridge](https://github.com/antomanc/scalebridge)**: step on a Bluetooth bathroom scale and the weight shows up in Garmin Connect.
-- **[remote-dictation](https://github.com/antomanc/remote-dictation)**: offline push-to-talk dictation for Fire TV, from the remote's voice button.
-- **[terrarium](https://github.com/antomanc/terrarium)**: A terrarium ray traced in Bend2, that updates with your Github work, with laws the compiler proves. [Grow yours as a wallpaper](https://antomanc.github.io/terrarium/).
+Also: [Ameki](https://github.com/antomanc/ameki) (Android weather app with Material You widgets),
+[TrainerBridge](https://github.com/antomanc/TrainerBridge) (ESP32 bridge to share one smart trainer between Zwift and a Garmin),
+[terrarium](https://github.com/antomanc/terrarium) (the image above: your GitHub year as a voxel island).
 
 [Portfolio](https://www.antomanc.com) · [LinkedIn](https://www.linkedin.com/in/antomanc/) · [X](https://x.com/antomanc25)
